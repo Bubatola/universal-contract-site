@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bubatola.github.io/universal-contract-site/sitemap.xml
