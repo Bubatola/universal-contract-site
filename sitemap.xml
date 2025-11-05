@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bubatola.github.io/universal-contract-site/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-11-05</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bubatola.github.io/universal-contract-site/introduction.html</loc>
-    <lastmod>2025-10-09</lastmod>
-    <priority>0.8</priority>
+    <loc>https://bubatola.github.io/universal-contract-site/intro.html</loc>
+    <lastmod>2025-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+    <url>
+    <loc>https://bubatola.github.io/universal-contract-site/intro2.html</loc>
+    <lastmod>2025-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+    <url>
+    <loc>https://bubatola.github.io/universal-contract-site/eight.html</loc>
+    <lastmod>2025-11-05</lastmod>
+    <priority>0.7</priority>
+  </url>
+    <url>
+    <loc>https://bubatola.github.io/universal-contract-site/soctheory.html</loc>
+    <lastmod>2025-11-05</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
